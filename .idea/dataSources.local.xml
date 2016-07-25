@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - singcms@localhost" uuid="637ec3d5-0d77-49cb-926a-2332af49e901">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>singcms:*</introspection-scope>
+      <resolve-scope>singcms:*</resolve-scope>
+    </data-source>
+  </component>
+</project>
